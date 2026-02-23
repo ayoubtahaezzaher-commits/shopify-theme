@@ -1,0 +1,4 @@
+# macOS metadata files
+__MACOSX/
+.DS_Store
+._*
